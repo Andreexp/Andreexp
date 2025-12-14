@@ -10,9 +10,8 @@
 <!-- Skill Icons -->
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">  
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,pandas,numpy,scipy&theme=dark" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,vmwareworkstation,docker&theme=light" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,jenkins,nix,linux&theme=dark" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,pandas,numpy,scipy,aws,jenkins&theme=dark" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,vmwareworkstation,nix,linux,docker&theme=light" /><br>
     </br>
   </a>
 </p>
